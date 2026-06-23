@@ -35,20 +35,6 @@ Pre-built binaries are available on the [Releases page](https://github.com/%3Cyo
 | 🐧 Linux | `Tetris` (binary) |
 
 
-
-## Running from source
-
-If you'd rather run the Python script directly:
-
-```
-git clone https://github.com/\<your-username\>/\<your-repo\>.git  
-cd \<your-repo\>  
-pip install PyQt5  
-python Tetris.py
-```
-
-Requires Python 3.7+ and PyQt5. Sound effects are optional — if `PyQt5.QtMultimedia` isn't available, the game runs silently without errors. To enable sound, place `clear.wav` and `levelup.wav` in the same folder as `Tetris.py`.
-
 ## Controls
 
 | Key | Action |
