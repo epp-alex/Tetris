@@ -79,6 +79,10 @@ Settings (language, difficulty, volume, highscore) are saved automatically depen
 
 This project is released under the [Unlicense](https://unlicense.org/) — public domain. You're free to use, copy, modify, and distribute it for any purpose, commercial or private, with no conditions and no warranty.
 
+<img width="602" height="842" alt="Screenshot 2026-06-23 223502" src="https://github.com/user-attachments/assets/9f57d389-4f24-458f-9534-fcbc9807074b" />
+
+<img width="602" height="842" alt="Screenshot 2026-06-23 223536" src="https://github.com/user-attachments/assets/4e739474-df95-4235-8b3a-10b55c31cef5" />
+
 ## Contributing
 
 Pull requests and issues are welcome! For larger changes, please open an issue first to discuss what you'd like to change.
